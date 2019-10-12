@@ -12,3 +12,4 @@ Clone do Instagran
 >Bibliotecas
 
     npm install --save react-navigation
+    npm install --save redux
